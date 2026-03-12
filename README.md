@@ -47,7 +47,7 @@ Crafting reliable, modern web applications for clients and startups.<br>
 <h3>🛠️ Tech Stack (Daily Tools)</h3>
 <strong>Frontend:</strong> Next.js, React, Tailwind CSS, JavaScript<br><br>
 <strong>Backend:</strong> Node.js, Python, PostgreSQL<br><br>
-<strong>Other:</strong> Git, VS Code, Docker basics
+<strong>Other:</strong> Git, VS Code, Docker basics, AWS
 
 <hr>
 
