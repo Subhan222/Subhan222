@@ -14,7 +14,7 @@
 
 </div>
 
-Experienced full-stack developer from Lahore, Pakistan. I build clean, scalable web apps using modern stacks. Most of my recent work lives in private/client repositories for confidentiality, but I regularly deliver:
+Full-stack developer having 4+ years of experience. I build clean, scalable web apps using modern stacks. Most of my recent work lives in private/client repositories for confidentiality, but I regularly deliver:
 
 - Next.js + React frontends with Tailwind CSS for responsive, performant UIs
 - Node.js / Python backends with PostgreSQL databases
