@@ -28,38 +28,36 @@
       </p>
 
       <h1>Hi, I'm Subhan 👋</h1>
-      <h3>Experienced full-stack developer turning client ideas into production-ready web & mobile solutions</h3>
+      <h3>Experienced full-stack developer turning client ideas into production-ready solutions</h3>
 
-      <p>From Lahore, Pakistan — I specialize in building clean, scalable applications using modern JavaScript/TypeScript stacks. Most of my recent work is client-confidential (private repositories), but I regularly deliver:</p>
+      <p>From Lahore, Pakistan — I build clean, scalable web apps using modern stacks. Most recent work is in private/client repositories for confidentiality reasons, but I regularly deliver:</p>
 
       <ul>
-        <li>Next.js + React frontends with Tailwind CSS for responsive, performant UIs</li>
-        <li>Node.js / Express / Python backends with PostgreSQL databases</li>
-        <li>API integrations, authentication systems, and secure data handling</li>
-        <li>Deployment pipelines and hosting (Vercel, Render, etc.)</li>
-        <li>Cross-platform prototypes (Flutter when needed)</li>
+        <li>Next.js + React frontends with Tailwind CSS</li>
+        <li>Node.js / Python backends & PostgreSQL databases</li>
+        <li>Secure APIs, authentication, and data handling</li>
+        <li>Deployment & hosting (Vercel, etc.)</li>
       </ul>
 
-      <p>Available for freelance / contract work — open to discussing your next project.</p>
+      <p>Open to freelance/contract opportunities — let's talk about your project.</p>
 
       <hr>
 
-      <h3>🛠️ Tech Stack (Core Tools I Use Daily)</h3>
-
-      <strong>Frontend:</strong> Next.js, React, Tailwind CSS, JavaScript/TypeScript<br><br>
-      <strong>Backend:</strong> Node.js, Express, Python (FastAPI/Flask), PostgreSQL<br><br>
-      <strong>Tools & Others:</strong> Git, Docker basics, Vercel, VS Code, Postman, Linux
+      <h3>🛠️ Tech Stack (Daily Tools)</h3>
+      <strong>Frontend:</strong> Next.js, React, Tailwind CSS, JavaScript<br><br>
+      <strong>Backend:</strong> Node.js, Python, PostgreSQL<br><br>
+      <strong>Other:</strong> Git, VS Code, Docker basics
 
       <hr>
 
-      <h3>💬 Let's connect</h3>
+      <h3>💬 Connect</h3>
       <p>
         <a href="https://www.linkedin.com/in/subhan-tahir-76a99a188">LinkedIn</a> • 
         <a href="mailto:subhan.tahir21071999@gmail.com">Email</a> • 
-        <a href="https://github.com/Subhan222">GitHub (public samples)</a>
+        <a href="https://github.com/Subhan222">GitHub</a>
       </p>
 
-      <p><em>Note: Most production/client projects are private for confidentiality reasons.</em></p>
+      <p><em>Note: Most client projects remain private.</em></p>
     </td>
   </tr>
 </table>
