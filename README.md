@@ -3,9 +3,8 @@
   <h1>Hi, I'm Subhan 👋</h1>
   <h3>Full Stack Developer crafting reliable, modern web solutions for clients & startups</h3>
 
-  <img src="https://komarev.com/ghpvc/?username=Subhan222&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 
-  <br><br>
+  <br>
 
   <p>
     <img src="https://img.shields.io/badge/Full_Stack-Developer-000000?style=for-the-badge&logo=code" alt="Full Stack" />
